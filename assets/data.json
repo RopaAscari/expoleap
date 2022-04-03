@@ -1,0 +1,124 @@
+{
+  "events": [
+    {
+      "id":"1",
+      "startTime":1629674600033,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/d7e2eaba4f85b9261b619a658ef79988%202.png?alt=media&token=a75ef424-2931-4031-82dd-4727c02deb85",
+      "name": "Hawk Conference",
+      "location": "Nashville, Florida",
+      "contact": {
+        "email": "hawkconference@gmail.com",
+        "phone": "8765813233"
+      },
+      "description": "Increase awareness about the natural resources and to make people understand about the importance of the conservation on of hawks."
+    },
+    {
+      "id":"2",
+      "startTime":1629674600033,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/images%20(2)%202.png?alt=media&token=33ef52f2-840c-4ff6-9487-4107c90ef70b",
+      "name": "Vizel Conference ",
+      "location": "Mrytle Beach, South Carolina",
+      "contact": {
+        "email": "vizelconference@gmail.com",
+        "phone": "652699522"
+      },
+      "description": "Increase awareness about the natural resources and to make people understand about the importance of the conservation of hawks."
+    },
+    {
+      "id":"3",
+      "startTime":1629674600033,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/3b1a348521069682f3e43de10f9a9fc0.jpg?alt=media&token=8536124b-2a46-467a-8e59-785ddd0f9fa6",
+      "name": "Gamer Conference ",
+      "location": "Northampton, Pennsylvania",
+      "contact": {
+        "email": "gamerconference@gmail.com",
+        "phone": "4789699522"
+      },
+      "description": "A gaming convention is a gathering centered on role-playing games, collectible card games, miniatures wargames, board games, video games, or other types of games. These conventions are typically two or three days long, and often held at either a university or in a convention center hotel."
+    },   
+    {
+      "id":"4",
+      "startTime":1629674600033,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/3%20m%2Cotion.jpg?alt=media&token=9ac03268-fa3e-4b83-a858-30c21af364b9",
+      "name": "3 Motion",
+      "location": "Augusta, Georgia",
+      "contact": {
+        "email": "3motion@yahoo.com",
+        "phone": "863212564"
+      },
+      "description": "This Conference consists of a series of presentations, panel discussions & industry talks. Some parts are exclusively open to our members."
+    },
+    {
+      "id":"5",
+      "startTime":1629674600033,
+      "logo": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/Geek.jpg?alt=media&token=ffd4d674-767d-48c1-803d-a33ef029e939",
+      "name": "MonsterMash",
+      "location": "Illinois, Elmhurst",
+      "contact": {
+        "email": "monstermash@yahoo.com",
+        "phone": "2654123697"
+      },
+      "description": "This Conference consists of a series of presentations, panel discussions & industry talks. Some parts are exclusively open to our members."
+    }
+
+  ],
+  "speakers": [
+    {
+      "id": 1,
+      "level": "Platinum",
+      "name": "Michael Cage",
+      "title": "Doctor",
+      "session": "9am - 5pm",
+      "image": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/professional-mens-hairstyles-combed-min-1024x683%203%20(1).png?alt=media&token=746065ec-ed4e-406f-bbfe-a4464d58f279",
+      "bio": "My name is Alex Drysdale and I am a Junior Web Developer for Oswald Technologies. I graduated from the California Institute of Technology in 2016 with a Bachelor's Degree in Software Development. While in school, I earned the 2015 Edmund Gains Award for my exemplary academic performance and leadership skills.",
+      "contact": {
+        "email": "michaelcage@gmail.com",
+        "phone": "652699522"
+      }
+    }
+  ],
+  "exhibitors": [  {
+    "id": 1,
+    "level": "Platinum",
+    "name": "Microsoft",
+    "image": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/unnamed.jpg?alt=media&token=405d8439-13dd-44eb-ac95-91fac5699841",
+    "bio": "Microsoft Corporation is a technology company. The Company develops and supports a range of software products, services,   devices, and solutions. The Company's segments include Productivity and Business Processes, Intelligent Cloud, and More  Personal Computing.",
+    "contact": {
+      "email": "microsoft@gmail.com",
+      "phone": "652699522"
+    }
+  },{
+    "id": 1,
+    "level": "Gold",
+    "name": "Apple",
+    "image": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/og-default.jpg?alt=media&token=95b35572-e380-4a56-babb-563b24f099a2",
+    "bio": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, computer software, and online services. Apple is the world's largest technology company by revenue and, since January 2021, the world's most valuable",
+    "contact": {
+      "email": "apple@gmail.com",
+      "phone": "(800–692–7753"
+    }
+  }],
+  "sponsors": [{
+    "id": 1,
+    "level": "Platinum",
+    "name": "Github",
+    "image": "https://firebasestorage.googleapis.com/v0/b/pricehunt-3444c.appspot.com/o/images%203.png?alt=media&token=dda45c19-f559-4fd9-a5b7-db58be0f02f8",
+    "bio": "GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.",
+    "contact": {
+      "email": "github@gmail.com",
+      "phone": "(800–692–7753"
+    }
+  }],
+  "notifications":[
+    {
+      "message": "The event is about to start. Hurry up and join",
+      "timeStamp":1628213027160,
+      "isRead":  false
+    },
+    {
+      "message": "The event has just changed venues to Times Square",
+      "timeStamp":1628212561360,
+      "isRead":  false
+    }
+  ]
+}

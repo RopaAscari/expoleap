@@ -1,0 +1,268 @@
+[
+    {
+        "id": null,
+        "title": "Hotel Cleanup",
+        "event": 1,
+        "color": "#00aeef",
+        "description": "Clean rooms in the hotel",
+        "date": {
+            "start": "2021-04-07T00:00:00Z",
+            "end": "2021-04-07T16:00:00Z",
+            "timezone": "America/Bogota"
+        },
+        "location": "Salt Spring, Montego Bay. St. James",
+        "calendar": 1,
+        "participants": [
+            {
+                "attendee": {
+                    "id": 8,
+                    "first_name": "M'Nadi",
+                    "last_name": "Grant",
+                    "email": "mgrant@altoleap.com"
+                },
+                "rsvp_status": 2
+            }
+        ],
+        "original_start": "2021-04-07T00:00:00Z",
+        "original_timezone": "America/Bogota",
+        "owner": "M'Nadi Grant",
+        "reminder": {
+            "enabled": false,
+            "minutes": 10
+        },
+        "recurrence": {
+            "enabled": true,
+            "rules": [
+                "DTSTART:20210407T000000Z\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20210507T000000Z"
+            ]
+        }
+    },
+    {
+        "id": null,
+        "title": "Hotel Renovation",
+        "event": 1,
+        "color": "#00aeef",
+        "description": "Renovates rooms in the hotel",
+        "date": {
+            "start": "2021-04-08T00:00:00Z",
+            "end": "2021-04-08T16:00:00Z",
+            "timezone": "America/Bogota"
+        },
+        "location": "Salt Spring, Montego Bay. St. James",
+        "calendar": 1,
+        "participants": [
+            {
+                "attendee": {
+                    "id": 8,
+                    "first_name": "M'Nadi",
+                    "last_name": "Grant",
+                    "email": "mgrant@altoleap.com"
+                },
+                "rsvp_status": 2
+            }
+        ],
+        "original_start": "2021-04-08T00:00:00Z",
+        "original_timezone": "America/Bogota",
+        "owner": "M'Nadi Grant",
+        "reminder": {
+            "enabled": false,
+            "minutes": 10
+        },
+        "recurrence": {
+            "enabled": true,
+            "rules": [
+                "DTSTART:20210407T000000Z\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20210507T000000Z"
+            ]
+        }
+    },
+    {
+        "id": null,
+        "title": "Hotel Cleanup",
+        "event": 1,
+        "color": "#00aeef",
+        "description": "Clean rooms in the hotel",
+        "date": {
+            "start": "2021-04-09T00:00:00Z",
+            "end": "2021-04-09T16:00:00Z",
+            "timezone": "America/Bogota"
+        },
+        "location": "Salt Spring, Montego Bay. St. James",
+        "calendar": 1,
+        "participants": [
+            {
+                "attendee": {
+                    "id": 8,
+                    "first_name": "M'Nadi",
+                    "last_name": "Grant",
+                    "email": "mgrant@altoleap.com"
+                },
+                "rsvp_status": 2
+            }
+        ],
+        "original_start": "2021-04-09T00:00:00Z",
+        "original_timezone": "America/Bogota",
+        "owner": "M'Nadi Grant",
+        "reminder": {
+            "enabled": false,
+            "minutes": 10
+        },
+        "recurrence": {
+            "enabled": true,
+            "rules": [
+                "DTSTART:20210407T000000Z\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20210507T000000Z"
+            ]
+        }
+    },
+    {
+        "id": null,
+        "title": "Hotel Cleanup",
+        "event": 1,
+        "color": "#00aeef",
+        "description": "Clean rooms in the hotel",
+        "date": {
+            "start": "2021-04-10T00:00:00Z",
+            "end": "2021-04-10T16:00:00Z",
+            "timezone": "America/Bogota"
+        },
+        "location": "Salt Spring, Montego Bay. St. James",
+        "calendar": 1,
+        "participants": [
+            {
+                "attendee": {
+                    "id": 8,
+                    "first_name": "M'Nadi",
+                    "last_name": "Grant",
+                    "email": "mgrant@altoleap.com"
+                },
+                "rsvp_status": 2
+            }
+        ],
+        "original_start": "2021-04-10T00:00:00Z",
+        "original_timezone": "America/Bogota",
+        "owner": "M'Nadi Grant",
+        "reminder": {
+            "enabled": false,
+            "minutes": 10
+        },
+        "recurrence": {
+            "enabled": true,
+            "rules": [
+                "DTSTART:20210407T000000Z\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20210507T000000Z"
+            ]
+        }
+    },
+    {
+        "id": null,
+        "title": "Hotel Cleanup",
+        "event": 1,
+        "color": "#00aeef",
+        "description": "Clean rooms in the hotel",
+        "date": {
+            "start": "2021-04-11T00:00:00Z",
+            "end": "2021-04-11T16:00:00Z",
+            "timezone": "America/Bogota"
+        },
+        "location": "Salt Spring, Montego Bay. St. James",
+        "calendar": 1,
+        "participants": [
+            {
+                "attendee": {
+                    "id": 8,
+                    "first_name": "M'Nadi",
+                    "last_name": "Grant",
+                    "email": "mgrant@altoleap.com"
+                },
+                "rsvp_status": 2
+            }
+        ],
+        "original_start": "2021-04-11T00:00:00Z",
+        "original_timezone": "America/Bogota",
+        "owner": "M'Nadi Grant",
+        "reminder": {
+            "enabled": false,
+            "minutes": 10
+        },
+        "recurrence": {
+            "enabled": true,
+            "rules": [
+                "DTSTART:20210407T000000Z\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20210507T000000Z"
+            ]
+        }
+    },
+    {
+        "id": null,
+        "title": "Hotel Cleanup",
+        "event": 1,
+        "color": "#00aeef",
+        "description": "Clean rooms in the hotel",
+        "date": {
+            "start": "2021-04-12T00:00:00Z",
+            "end": "2021-04-12T16:00:00Z",
+            "timezone": "America/Bogota"
+        },
+        "location": "Salt Spring, Montego Bay. St. James",
+        "calendar": 1,
+        "participants": [
+            {
+                "attendee": {
+                    "id": 8,
+                    "first_name": "M'Nadi",
+                    "last_name": "Grant",
+                    "email": "mgrant@altoleap.com"
+                },
+                "rsvp_status": 2
+            }
+        ],
+        "original_start": "2021-04-12T00:00:00Z",
+        "original_timezone": "America/Bogota",
+        "owner": "M'Nadi Grant",
+        "reminder": {
+            "enabled": false,
+            "minutes": 10
+        },
+        "recurrence": {
+            "enabled": true,
+            "rules": [
+                "DTSTART:20210407T000000Z\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20210507T000000Z"
+            ]
+        }
+    },
+    {
+        "id": null,
+        "title": "Hotel Cleanup",
+        "event": 1,
+        "color": "#00aeef",
+        "description": "Clean rooms in the hotel",
+        "date": {
+            "start": "2021-04-13T00:00:00Z",
+            "end": "2021-04-13T16:00:00Z",
+            "timezone": "America/Bogota"
+        },
+        "location": "Salt Spring, Montego Bay. St. James",
+        "calendar": 1,
+        "participants": [
+            {
+                "attendee": {
+                    "id": 8,
+                    "first_name": "M'Nadi",
+                    "last_name": "Grant",
+                    "email": "mgrant@altoleap.com"
+                },
+                "rsvp_status": 2
+            }
+        ],
+        "original_start": "2021-04-13T00:00:00Z",
+        "original_timezone": "America/Bogota",
+        "owner": "M'Nadi Grant",
+        "reminder": {
+            "enabled": false,
+            "minutes": 10
+        },
+        "recurrence": {
+            "enabled": true,
+            "rules": [
+                "DTSTART:20210407T000000Z\nRRULE:FREQ=DAILY;INTERVAL=1;UNTIL=20210507T000000Z"
+            ]
+        }
+    }
+]

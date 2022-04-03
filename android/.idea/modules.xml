@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-23537658/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-23537658/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/769094907/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/769094907/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/892992128/android.firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/892992128/android.firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1656521152/android.flutter_local_notifications.iml" filepath="$PROJECT_DIR$/.idea/modules/-1656521152/android.flutter_local_notifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1693041508/android.geocoding.iml" filepath="$PROJECT_DIR$/.idea/modules/-1693041508/android.geocoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-650502802/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-650502802/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1055924779/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-1055924779/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1173694034/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1173694034/android.url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-468893056/com.tekartik.sqflite.android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-468893056/com.tekartik.sqflite.android.sqflite.iml" />
+    </modules>
+  </component>
+</project>

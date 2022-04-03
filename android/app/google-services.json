@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "810814555808",
+    "firebase_url": "https://expoleap-demo.firebaseio.com",
+    "project_id": "expoleap-demo",
+    "storage_bucket": "expoleap-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810814555808:android:c0d69f6adfab7cbbad2bc5",
+        "android_client_info": {
+          "package_name": "com.example.expoleap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810814555808-djtujift6gja3bm51ecthilu60of18g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqGkMPhUUSqPHR-infDxa4kydpumHcjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810814555808-djtujift6gja3bm51ecthilu60of18g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810814555808-n6l4db4hn518d6ag6m67scfukqdid2ng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expoleap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810814555808:android:6fa264b3c3e69d8fad2bc5",
+        "android_client_info": {
+          "package_name": "com.expoleap.rtsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810814555808-djtujift6gja3bm51ecthilu60of18g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqGkMPhUUSqPHR-infDxa4kydpumHcjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810814555808-djtujift6gja3bm51ecthilu60of18g4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810814555808-n6l4db4hn518d6ag6m67scfukqdid2ng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expoleap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
